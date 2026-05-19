@@ -8,6 +8,7 @@ Suite Setup      OpenBrowser                 about: blank    chrome
 
 first logintest
     [Documentation]   Test Case created using the QEditor
+    [Tags]            loginwise
     GoTo              https://practicetestautomation.com/practice-test-login/
     TypeText          Username          student
     TypeSecret        Password          Password123
