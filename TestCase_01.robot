@@ -16,8 +16,16 @@ TestCase_01 - Verify functionality to login
     ClickText         Home
     ClickText         Practice
     ClickText         Test Login Page
-    ClickText         Selenium WebDriver: Selenium Automation Testing with Java
+    ClickText         Contact
+    TypeText          First             amit
+    TypeText          Last              chuahan
+    TypeText          Email *           amit@gmail.com
+    TypeText          Comment or Message *      Message testing
+    ClickCheckbox     I'm not a robot   on
+    ClickCheckbox     I'm not a robot   on
+    ClickText         Submit
+    VerifyText        hanks for contacting us! We will be in touch with you shortly.
     SwitchWindow      NEW
-    VerifyText        elenium WebDriver:
+    CloseWindow
     CloseWindow
     ClickText         Blog
