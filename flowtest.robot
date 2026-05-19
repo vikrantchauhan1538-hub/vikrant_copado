@@ -18,7 +18,7 @@ first logintest
     ClickText         Selenium WebDriver: Selenium Automation Testing with Java
     SwitchWindow      NEW
     SwitchWindow      1
-    ClickText         Practice
+    ClickText         Practice1
     ClickText         Test Login Page
     ClickText         Blog
     ClickText         Contact
