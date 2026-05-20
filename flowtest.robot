@@ -15,5 +15,5 @@ first logintest
     ClickText         Submit
     ClickText         Home
     VerifyText        Welcome to Practice Test Automation!
-    ClickText         Courses           anchor=Practice
+    ClickText         Courses           anchor=Practice, Blog
    
