@@ -20,12 +20,4 @@ TestCase_01 - Verify functionality to login
     TypeText           First                       amit
     TypeText           Last                        chuahan
     TypeText           Email *                     amit@gmail.com
-    TypeText           Comment or Message *        Message testing
-    ClickCheckbox      I'm not a robot             on
-    ClickCheckbox      I'm not a robot             on
-    ClickText          Submit
-    VerifyText         hanks for contacting us! We will be in touch with you shortly.
-    SwitchWindow       NEW
-    CloseWindow
-    CloseWindow
-    ClickText          Blog
+    
