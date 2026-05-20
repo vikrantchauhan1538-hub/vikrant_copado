@@ -23,7 +23,7 @@ Login to Application
     TypeText      Phone #       1234567890
     TypeText      SSN           SSN-202
     TypeText      Username      Vikrant_User_202    anchor=SSN
-    TypeText      Password       Password-202    anchor=Confirm:
-    TypeText      Confirm       Password-202
+    TypeText      Password      Password-202        anchor=Confirm:
+    TypeText      Confirm       Password-202        
     Sleep         3s  
     ClickText     REGISTER      anchor=Confirm:
