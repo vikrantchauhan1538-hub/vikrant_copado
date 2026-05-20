@@ -12,3 +12,5 @@ Login to Application
     [Documentation] This is first test case of para bank
     [Tags]    Smoke          
     Goto      ${BANK_URL}
+    ClickText    Register
+    VerifyText    Signing up is easy!
