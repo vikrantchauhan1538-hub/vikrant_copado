@@ -14,7 +14,7 @@ Login to Application
     Goto               ${BANK_URL}
     ClickText          Register
     VerifyText         Signing up is easy!
-    TypeText           First Name                  Vikrant 202
+    TypeText           First Name                  Vikrant 2900
     TypeText           Last Name                   Chauhan 202
     TypeText           Address                     Delhi 202
     TypeText           City                        City 202
@@ -22,8 +22,8 @@ Login to Application
     TypeText           Zip Code                    20301
     TypeText           Phone #                     1234567890
     TypeText           SSN                         SSN-202
-    TypeText           Username                    Vikrant_Automate_786    anchor=SSN
-    TypeText           Password                    Password-786            anchor=Confirm:
-    TypeText           Confirm                     Password-786
+    TypeText           Username                    Vikrant_Automate_9090    anchor=SSN
+    TypeText           Password                    Password-9090            anchor=Confirm:
+    TypeText           Confirm                     Password-9090
     Sleep              3s
     ClickText          REGISTER                    anchor=Confirm:
