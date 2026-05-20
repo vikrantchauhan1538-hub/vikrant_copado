@@ -11,7 +11,7 @@ ${BANK_URL}            https://parabank.parasoft.com/parabank/index.htm
 Login to Application 
     [Documentation]    This is first test case of para bank
     [Tags]             Smoke
-    SetConfig          LineDelay                   0.5s
+   
     Goto               ${BANK_URL}
     ClickText          Register
     VerifyText         Signing up is easy!
