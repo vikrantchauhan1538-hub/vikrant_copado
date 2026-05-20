@@ -15,15 +15,5 @@ first logintest
     ClickText         Submit
     ClickText         Home
     VerifyText        Welcome to Practice Test Automation!
-    ClickText         Courses           anchor=BLOG
-    ClickText         Selenium WebDriver: Selenium Automation Testing with Java
-    SwitchWindow      NEW
-    SwitchWindow      1
-    ClickText         Practice1
-    ClickText         Test Login Page
-    ClickText         Blog
-    ClickText         Contact
-    ClickText         Courses
-    ClickText         Practice
-    ClickText         Test Exceptions
-    ClickText         Add
+    ClickText         Courses           anchor=Practice
+   
