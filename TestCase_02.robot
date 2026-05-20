@@ -22,7 +22,7 @@ Login to Application
     TypeText      Zip Code       20301         
     TypeText      Phone #       1234567890
     TypeText      SSN           SSN-201
-    TypeText      Username       Vikrant_User_201 anchor=SSN
+    TypeText      Username      Vikrant_User_201    anchor=SSN
     TypeText      Password       Password-201    anchor=Confirm:
     TypeText      Confirm       Password-201
     ClickText     REGISTER      anchor=Confirm:
