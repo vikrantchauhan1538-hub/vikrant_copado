@@ -19,7 +19,7 @@ Login to Application
     TypeText      Address       Delhi 201
     TypeText      City          City 201
     TypeText      State         State 201
-    TypeText      Zipcode       20301         
+    TypeText      Zip Code       20301         
     TypeText      Phone #       1234567890
     TypeText      SSN           SSN-201
     TypeText      Username       Vikrant_User_201
