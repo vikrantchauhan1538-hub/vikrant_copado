@@ -10,7 +10,8 @@ ${BANK_URL}    https://parabank.parasoft.com/parabank/index.htm
 *** Test Cases ***
 Login to Application 
     [Documentation]     This is first test case of para bank
-    [Tags]    Smoke          
+    [Tags]    Smoke   
+    SetConfig    StealthMode    True       
     Goto      ${BANK_URL}
     ClickText    Register
     VerifyText    Signing up is easy!
